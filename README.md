@@ -1,1 +1,2 @@
-# c24-completo
+# C20_boilerplate
+boilerplate for teacher activity
